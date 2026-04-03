@@ -73,6 +73,7 @@ section {
     border-radius: 20px;
     box-shadow: 0 8px 16px rgba(26, 97, 202, 0.1);
     animation: fadeIn 1s ease-in;
+    scroll-margin-top: 90px;
 }
 
 section h2 {
