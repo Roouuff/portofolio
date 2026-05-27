@@ -101,4 +101,5 @@ Saran dan feedback sangat diterima! Silakan hubungi melalui:
 **Made with ❤️ by Muhammad Abdul Rouf**
 
 📝 Lisensi
-Proyek ini dibuat untuk keperluan praktikum akademik — Pemrograman Web Berbasis Framework, Tahun Ajaran 2025/2026.
+
+Proyek ini dibuat untuk keperluan praktikum akademik — Pemrograman Web, Tahun Ajaran 2025/2026.
