@@ -88,9 +88,6 @@ Untuk mengkustomisasi website:
 3. Tambahkan favicon
 4. Update path gambar di HTML dari `Animation.jpg` menjadi `img/Animation.jpg`
 
-## 📄 License
-
-© 2026 Muhammad Abdul Rouf. All rights reserved.
 
 ## 🤝 Kontribusi
 
